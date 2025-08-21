@@ -1,2 +1,2 @@
-# Practice_SQL1
-PRACTICE
+# MYSQL
+mysql
